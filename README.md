@@ -1,1 +1,1 @@
-Scripts with shell ba shell basics
+Scripts with basic shell commands
